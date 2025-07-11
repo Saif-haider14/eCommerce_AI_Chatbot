@@ -26,7 +26,7 @@ This project is an intelligent eCommerce chatbot built with the Gemini 2.0 Flash
 # 🔧 Installation
 Clone the repo:
 bash: 
-📌git clone https://github.com/yourusername/ecommerce-gemini-chatbot.git
+📌git clone https://github.com/Saif-haider14/eCommerce_AI_Chatbot.git
 cd ecommerce-gemini-chatbot
  # Install dependencies:
  
